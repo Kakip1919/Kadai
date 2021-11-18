@@ -1,0 +1,79 @@
+
+body{
+    font-size: 20px;
+}
+
+.container{
+    width:800px;
+    margin:0 auto;
+    border: solid 1px #F00;
+    padding:10px;
+}
+
+header{
+    border: solid 1px #F00;
+    margin-bottom: 10px;
+    height:100px;
+}
+
+.site_name{
+    display: inline-block;
+    border: solid 1px #F00;
+    height:100px;
+    width:79.6%;
+    text-align: center;
+}
+
+.menu{
+    border: solid 1px #F00;
+    width:10%;
+    height:100px;
+    float:left;
+
+}
+.social{
+    border: solid 1px #F00;
+    width:10%;
+    height:100px;
+    float:right;
+}
+
+
+section{
+    border: solid 1px #F00;
+    padding-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.form_box{
+    border: solid 1px #F00;
+
+
+}
+
+
+label {
+    display: block;
+
+}
+
+input[type=checkbox] {
+    transform: scale(2);
+    margin-right:10px;
+}
+
+.submit_button{
+    width:100px;
+    padding: 10px 0;
+    margin: 10px auto;
+    display:block;
+}
+
+
+
+
+footer{
+    border: solid 1px #F00;
+    height:100px;
+}
